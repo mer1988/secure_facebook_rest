@@ -1,0 +1,21 @@
+test
+re-start
+re-stop
+test
+re-start
+re-stop
+exit
+compile
+run
+compile
+exit
+compile
+exit
+run
+compile
+run 
+run
+compile
+run
+sbt run 
+run 

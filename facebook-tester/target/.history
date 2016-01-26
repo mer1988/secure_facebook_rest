@@ -1,0 +1,78 @@
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+sbt run 1000
+run 1000
+run 100
+run 1000
+run 10000
+run 100
+run 1000
+run 10000
+run 1000
+run 5000
+run 1000
+run 10000
+run 5000
+run 1000
+run 5000
+run 1000
+run 2000
+run 1500
+run 1000
+run 1010
+run 1050
+run 1100
+run 1000
+run 100
+compile
+run 100
+compile
+run 100
+run 100 
+run 100
+sbt run 100
+run 100\
+run 100
+run 1100
+compile
+run 1000
+run 100
+run 500
+run 100
+run 1000
+compile
+run 1000
+run 2000
+run 1000
+run 5000
+run 10
+exit
+run 10
+run 1000
+run 3000
+run 5000
+run 2000
+run 1000
+run 10
+run 1000
+run 2000
+run 200
+run 2000
+run 5000
+run 2000
+run 10 demo
+sbt 
+run 10 demo
+run 10000 full
+run 5000
+run 2000 full
+run 1000
+compile
+run 10 demo
